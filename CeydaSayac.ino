@@ -1,8 +1,8 @@
-////////// Ceyda Naz ÇEVİK  //////////
+////////////  Ceyda Naz   ////////////
 // 0'dan 100'e kadar sayıp  /////////
 // tekrar başa dönen Arduino kodu //
 /////////// Mart 2020 /////////////
-////////// Volkan ÇEVİK //////////
+///////////// Volkan /////////////
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
